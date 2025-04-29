@@ -27,6 +27,9 @@ Youtube :
 Each agent pattern includes:
 
 Step-by-step logic construction
+
 Execution trace with LangSmith Studio
+
 Equivalent implementation in CrewAI
+
 Side-by-side behavior comparisons
