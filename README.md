@@ -22,7 +22,7 @@ Run the same pattern for comparative evaluation.
 
 Colab : https://colab.research.google.com/drive/19HFBEiBGCr62VpooWlsQpd3mIfnGvrj1
 
-Youtube : 
+Youtube : https://youtu.be/S27D3wBRClg
 
 Each agent pattern includes:
 
